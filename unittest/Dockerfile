@@ -1,6 +1,6 @@
 FROM ubuntu:12.04
 
-MAINTAINER ksoichiro "buggfille@gmail.com"
+MAINTAINER filiplindvist "buggfille@gmail.com"
 
 ENV BUILD_TOOLS_VERSION 23.0.3
 ENV ANDROID_SDK 24
